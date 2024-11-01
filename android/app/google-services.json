@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241299853899",
+    "project_id": "todoapp-60fce",
+    "storage_bucket": "todoapp-60fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241299853899:android:14e9ef016af6278182b3ce",
+        "android_client_info": {
+          "package_name": "com.wecodelife.todolist.to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6iwnCMB84D7JCyYhoEVfcqcz_dV29gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
