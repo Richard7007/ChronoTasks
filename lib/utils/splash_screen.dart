@@ -35,7 +35,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       backgroundColor: Colors.black,
       body: Center(
         child:
@@ -43,7 +43,6 @@ class _SplashScreenState extends State<SplashScreen> {
               'ChronoTasks',
               style: TextStyle(fontSize: 35, color: Colors.cyan),
             ),
-
       ),
     );
   }
